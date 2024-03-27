@@ -1,3 +1,6 @@
+![prevew-api](https://github.com/Arnaldocloud/practica-api/assets/125355716/408dfc0e-a45c-429f-b910-5c8febfae878)
+
+
 # Películas en Cartelera - React App
 
 Este proyecto es una aplicación web desarrollada con React que muestra las películas actualmente en cartelera. Utiliza la API de The Movie Database (TMDB) para obtener y mostrar información sobre las películas más recientes que se están proyectando en los cines.
@@ -17,5 +20,5 @@ Este proyecto es una aplicación web desarrollada con React que muestra las pel�
 Pruebala aqui: https://arnaldocloud.github.io/practica-api/
 
 
-![prevew-api](https://github.com/Arnaldocloud/practica-api/assets/125355716/408dfc0e-a45c-429f-b910-5c8febfae878)
+
 
